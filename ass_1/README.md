@@ -73,11 +73,15 @@ pattern.
 
 (19) Write a program to display inverted half pyramid using 
 stars pattern.
-* * * * * 
-* * * * 
-* * * 
-* * 
-*
+//* * * * *
+
+//* * * * 
+
+//* * * 
+
+//* * 
+
+//*
 
 (20) Write a program to display a full pyramid using stars
 pattern.
