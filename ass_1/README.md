@@ -86,15 +86,15 @@ stars pattern.
 (20) Write a program to display a full pyramid using stars
 pattern.
 
-//               *
+//    &emsp; &emsp; &emsp;  &emsp;&emsp;        *
 
-//              ***
+//    &emsp;  &emsp;   &emsp; &emsp;           ***
 
-//             *****
+//    &emsp;   &emsp; &emsp;                  *****
 
-//  	      *******
+//    &emsp; &emsp;                          *******
 
-//           *********
+//    &emsp;                                *********
 
 (21) Write a program to display cross or X-shape using stars 
 pattern.
