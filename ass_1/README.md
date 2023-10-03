@@ -61,15 +61,15 @@ decimal number.
 (18) Write a program to display half pyramid using stars 
 pattern.
 
-//    \t           *
+//               *
 
-//      \t         * * 
+//               * * 
 
-//        \t       * * * 
+//               * * * 
 
-//          \t     * * * * 
+//               * * * * 
 
-//           \t    * * * * *
+//               * * * * *
 
 (19) Write a program to display inverted half pyramid using 
 stars pattern.
